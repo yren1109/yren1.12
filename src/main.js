@@ -4,5 +4,5 @@
 
  new Vue({
      el:"#app",
-     render:c=>c(App)
+    render: c =>c(App)
  })
