@@ -59,3 +59,8 @@
     }
 
 </script>
+<style>
+    .el-menu-vertical-demo{
+        width: 100%;
+    }
+</style>
